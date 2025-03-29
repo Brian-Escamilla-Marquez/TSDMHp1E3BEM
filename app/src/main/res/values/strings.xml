@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMHp1E3BEM</string>
+
+    <string name="pantallainicial">Bienvenidos a la programacion en android</string>
+    <string name="descimagen">Imagen x</string>
+    <string name="p2titulo">Menu principal</string>
+    <string name="p2txttunombre">Ingresa tu nombre</string>
+    <string name="p2btn1saluda">Saludar</string>
+</resources>
